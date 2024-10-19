@@ -12,7 +12,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-public class A {
+public class A { // 抓取千恋万花的壁纸
 
     public static void main(String[] args) throws URISyntaxException, IOException, InterruptedException {
         try (HttpClient client = HttpClient.newHttpClient()) {

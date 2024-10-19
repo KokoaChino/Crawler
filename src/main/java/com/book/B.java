@@ -11,7 +11,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 
-public class B {
+public class B { // 抓取星灵感应官网壁纸
 
     public static void main(String[] args) throws URISyntaxException, IOException, InterruptedException {
         try (HttpClient client = HttpClient.newHttpClient()) {
