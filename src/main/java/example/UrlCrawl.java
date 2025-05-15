@@ -18,7 +18,7 @@ import java.util.UUID;
 
 public class UrlCrawl { // 抓取 URL 下的 HTML 代码以及图片
 
-    private static final String url = "https://www.nipic.com/topic/show_29204_1.html"; // 要爬取的 URL
+    private static final String url = "https://detail.vip.com/detail-3285477-2168130991.html"; // 要爬取的 URL
 
     public static void main(String[] args) {
         try {
